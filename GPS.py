@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+
 import math
 from collections import defaultdict
 import random
@@ -13,7 +14,7 @@ ju vedeli davat do mnozin, dictov a porovnavat
 
     def __init__(self, elem):
        self.ways=set()
-       self.skuska='skuska'
+       self.skuska='skuska85'
        #pozor, id je string, nie cislo!
        self.id=elem.attrib['id']
        self.lat=elem.attrib['lat']
