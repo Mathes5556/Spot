@@ -13,6 +13,7 @@ ju vedeli davat do mnozin, dictov a porovnavat
 
     def __init__(self, elem):
        self.ways=set()
+       self.skuska='skuska'
        #pozor, id je string, nie cislo!
        self.id=elem.attrib['id']
        self.lat=elem.attrib['lat']
