@@ -7,7 +7,7 @@ import random
 
 class Node:
     """
-skuska GITTrieda reprezentujuca jeden nod. Mala by mat dobre definovane funckie __hash__ a __eq__ aby sme
+kuskasssssssssssssssssss GITTrieda reprezentujuca jeden nod. Mala by mat dobre definovane funckie __hash__ a __eq__ aby sme
 ju vedeli davat do mnozin, dictov a porovnavat
 """
 
